@@ -1,0 +1,1 @@
+Robo Speaker 1.2 is a Python-based text-to-speech application that reads aloud multiple lines of user-provided text. It features an interactive interface and concludes with a friendly farewell when "bye" is entered.
